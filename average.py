@@ -5,5 +5,6 @@ largest = max(numbers)
 smallest = min(numbers)
 
 print("Average: {average}")
-print("Largest number: {largest}")
-print("Smallest number: {smalest}")
+print("Largest num: {largest}")
+print("Smallest num: {smalest}")
+
