@@ -1,2 +1,10 @@
 numbers = list(map(int, input("Enter numbers separated by spaces: ").split()))
-print("Average:", sum(numbers) / len(numbers))
+
+average = sum(numbers) / len(numbers)
+largest = max(numbers)
+smallest = min(numbers)
+
+print("Average: {average}")
+print("Largest num: {largest}")
+print("Smallest num: {smalest}")
+
